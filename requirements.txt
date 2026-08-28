@@ -1,1 +1,9 @@
+numpy
+matplotlib
+scipy
+sympy
+mpmath
+pandas
+pytest
+jupyter
 
